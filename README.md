@@ -1,6 +1,6 @@
 # APCOA Corporate Parking Website
 
-A modern and fully responsive corporate parking website built with **HTML, CSS, Bootstrap, and JavaScript**. This project showcases APCOA’s parking services, subscription plans, and company information, with dynamic UI elements and a professional design.
+“A modern and fully responsive corporate parking website built with HTML, CSS, Bootstrap, and JavaScript. This project is a frontend clone, focusing on layout building, responsiveness, and component implementation.”
 
 ## ✨ Key Features
 - **Responsive design**: Works perfectly on desktop, tablet, and mobile.  
